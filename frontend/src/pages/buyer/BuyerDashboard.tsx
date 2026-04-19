@@ -292,7 +292,7 @@ const BuyerDashboard = () => {
                 </div>
               </div>
             ) : (
-              !isOrdersLoading && <p className="text-sm text-muted-foreground">Place a few orders to get reorder suggestions.</p>
+              !isOrdersLoading && <p className="text-sm text-muted-foreground">Place a feew orders to get reorder suggestions.</p>
             )}
 
             {lowStockOpportunities.length > 0 && (
