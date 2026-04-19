@@ -1,0 +1,47 @@
+{
+  "model_info": {
+    "model_type": "Random Forest",
+    "n_estimators": 200,
+    "test_mae": 0.013068181818181817,
+    "test_r2": 0.999746743669181,
+    "trained_on": "2026-03-17 22:14:28"
+  },
+  "suggestions": [
+    {
+      "fabric": "Cotton",
+      "current_price": 120.0,
+      "suggested_price": 120.0,
+      "price_change_percent": 0.0,
+      "avg_monthly_sales": 150.0,
+      "season": "Winter",
+      "confidence": "High"
+    },
+    {
+      "fabric": "Lycra",
+      "current_price": 130.0,
+      "suggested_price": 130.0,
+      "price_change_percent": 0.0,
+      "avg_monthly_sales": 170.0,
+      "season": "Winter",
+      "confidence": "High"
+    },
+    {
+      "fabric": "Polyester",
+      "current_price": 125.0,
+      "suggested_price": 125.0,
+      "price_change_percent": 0.0,
+      "avg_monthly_sales": 119.0,
+      "season": "Winter",
+      "confidence": "High"
+    },
+    {
+      "fabric": "Wool",
+      "current_price": 150.0,
+      "suggested_price": 150.0,
+      "price_change_percent": 0.0,
+      "avg_monthly_sales": 90.0,
+      "season": "Winter",
+      "confidence": "High"
+    }
+  ]
+}

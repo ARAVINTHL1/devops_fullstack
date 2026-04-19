@@ -1,0 +1,132 @@
+intent,question,response
+greeting,hello,Welcome to MS Garments. How can I help you today?
+greeting,hi,Hello! Welcome to MS Garments buyer portal.
+greeting,hey,Hi there! How can I assist you?
+greeting,good morning,Good morning! Welcome to MS Garments.
+greeting,good evening,Good evening! How can I help you today?
+greeting,how are you,I'm doing great! How can I help you with MS Garments today?
+greeting,how are u,I'm here to help! What can I do for you?
+greeting,whats up,Hey! Ready to help you with MS Garments.
+greeting,what's going on,All good! How can I assist you?
+greeting,how you doing,Doing well! What do you need help with?
+product_inquiry,what products do you sell,We sell wholesale ladies leggings in various colors and sizes.
+product_inquiry,do you have leggings available,Yes we have multiple leggings available in stock.
+product_inquiry,show me available products,You can view all leggings in the products section.
+product_inquiry,what types of leggings are available,We offer cotton leggings ankle leggings and churidar leggings.
+product_inquiry,available leggings,Please check the products page to see available leggings.
+product_inquiry,what can i buy,We have cotton leggings ankle leggings and churidar leggings.
+product_inquiry,what do you have,We sell ladies leggings in bulk at wholesale prices.
+product_inquiry,show products,Check the products page to see our leggings collection.
+product_price,what is the price of leggings,Prices vary depending on quantity and type of leggings.
+product_price,price of cotton leggings,Cotton leggings price starts from ₹120 per piece.
+product_price,how much do leggings cost,Leggings prices start from ₹120 depending on quantity.
+product_price,wholesale leggings price,Wholesale price depends on bulk order quantity.
+product_price,price list,You can view the price list in the products section.
+order_status,show my orders,You can see your orders in the orders section.
+order_status,my latest order,Checking your latest order details.
+order_status,track my order,Please check the order tracking section.
+order_status,order history,You can view your order history in the orders page.
+order_status,recent order,Fetching your recent order details.
+order_status,where is my order,Check the orders section to track your order.
+order_status,wheres my order,Your order details are in the orders page.
+order_status,my order,View your orders in the orders section.
+place_order,how to place order,Select products add them to cart and place the order.
+place_order,how can i order leggings,Go to products select items and click place order.
+place_order,steps to place order,Choose product add to cart confirm order and proceed to payment.
+place_order,order process,Add products to cart then confirm your order.
+place_order,how do i buy products,You can buy products directly from the products page.
+place_order,how to order,Select products add to cart and checkout.
+place_order,buy leggings,Go to products page select items and place order.
+place_order,want to order,Choose products and click place order button.
+payment_methods,what payment methods are available,We support UPI bank transfer and cash on delivery.
+payment_methods,how can i pay,You can pay via UPI or bank transfer.
+payment_methods,is cod available,Yes cash on delivery is available for selected orders.
+payment_methods,do you accept upi,Yes we accept UPI payments.
+payment_methods,payment options,UPI bank transfer and COD are available.
+delivery,delivery time,Delivery usually takes 3 to 5 business days.
+delivery,shipping time,Shipping will take around 3 to 5 days.
+delivery,when will my order arrive,Your order will arrive within 5 days.
+delivery,delivery details,Delivery details will be shown after placing order.
+delivery,do you deliver across india,Yes we deliver across India.
+reviews,show product reviews,You can check reviews in the reviews section.
+reviews,customer feedback,Customer feedback is available on each product page.
+reviews,ratings for leggings,You can see ratings on the product page.
+reviews,product rating,Product ratings are available in the review section.
+reviews,customer reviews,Please check the reviews page for customer feedback.
+goodbye,bye,Thank you for visiting MS Garments.
+goodbye,goodbye,Have a great day.
+goodbye,see you,See you again soon.
+goodbye,thanks,You're welcome.
+goodbye,thank you,Happy to help.
+goodbye,ok bye,Thanks for visiting! Have a great day.
+goodbye,cya,See you later!
+goodbye,later,See you soon!
+greeting_casual,hey machan,Hey machan! How can I help you da?
+greeting_casual,yo bro,Yo bro! What do you need?
+greeting_casual,sup da,Sup da! Ready to help you machan.
+greeting_casual,enna machan,Enna da! What can I do for you?
+greeting_casual,da enna panra,Da I'm here to help you! What do you want?
+greeting_casual,machan how are you,I'm good machan! What about you da?
+greeting_casual,bro whats up,All good bro! What can I help you with?
+product_inquiry_casual,machan enna products iruku,Machan we have cotton leggings ankle leggings and churidar leggings da.
+product_inquiry_casual,bro what stuff you got,Bro we got ladies leggings in bulk wholesale da.
+product_inquiry_casual,da enna sell panringa,Da we sell wholesale ladies leggings machan.
+product_inquiry_casual,machan show me products,Sure machan! Check the products page da.
+product_inquiry_casual,enna items iruku bro,Bro we have multiple leggings available in stock da.
+product_price_casual,machan price enna,Machan prices start from ₹120 depending on quantity da.
+product_price_casual,bro how much,Bro leggings start from ₹120 per piece.
+product_price_casual,da cotton leggings rate enna,Da cotton leggings start from ₹120 machan.
+product_price_casual,machan wholesale price sollu,Machan wholesale price depends on bulk order quantity da.
+order_status_casual,machan my order enga,Machan check the orders section to see your order da.
+order_status_casual,bro wheres my order,Bro your order details are in the orders page.
+order_status_casual,da order status enna,Da check the orders page machan.
+order_status_casual,machan order track panna,Track your order in the orders section machan.
+place_order_casual,machan how to order,Machan select products add to cart and checkout da.
+place_order_casual,bro order panna,Bro go to products page and place order.
+place_order_casual,da eppadi order panradhu,Da choose products and click place order button machan.
+payment_methods_casual,machan payment eppadi,Machan you can pay via UPI or bank transfer da.
+payment_methods_casual,bro how do i pay,Bro we accept UPI bank transfer and COD.
+payment_methods_casual,da cod iruka,Da yeah COD is available machan.
+goodbye_casual,ok machan bye,Bye machan! See you soon da.
+goodbye_casual,later bro,Later bro! Have a good one.
+goodbye_casual,thanks da,Welcome da! Anytime machan.
+goodbye_casual,seri machan,Seri machan! Come back anytime da.
+shop_info,what is ms garments,MS Garments is a leading wholesale supplier of ladies leggings with quality products at competitive prices.
+shop_info,tell me about your company,We are MS Garments specializing in wholesale ladies leggings. We offer bulk quantities with fast delivery across India.
+shop_info,who are you,I represent MS Garments a trusted wholesale leggings supplier serving buyers across India.
+shop_info,about ms garments,MS Garments provides high-quality wholesale ladies leggings in various styles including cotton ankle and churidar leggings.
+shop_info,company details,MS Garments is your one-stop destination for bulk wholesale ladies leggings with reliable service and quality products.
+shop_info,what do you specialize in,We specialize in wholesale ladies leggings offering cotton leggings ankle leggings and churidar leggings in bulk quantities.
+shop_info,your business type,We are a B2B wholesale supplier focusing on ladies leggings for retailers and bulk buyers.
+shop_info,minimum order quantity,Minimum order quantity varies by product. Contact us for bulk order details and special wholesale rates.
+shop_info,bulk discount available,Yes we offer attractive discounts on bulk orders. Larger quantities get better wholesale rates.
+shop_info,do you have samples,Yes samples are available. You can order small quantities first to check quality before bulk orders.
+shop_info,custom orders,We can discuss custom requirements for bulk orders. Contact us with your specifications.
+shop_info,delivery areas,We deliver across India. Delivery usually takes 3 to 5 business days depending on your location.
+shop_info,contact details,You can reach us through the contact section or place orders directly through our buyer portal.
+shop_info,working hours,Our buyer portal is available 24/7. You can browse products and place orders anytime.
+shop_info,why choose ms garments,We offer quality products competitive wholesale prices reliable delivery and excellent customer service.
+shop_info_casual,machan ms garments enna company,Machan MS Garments is a wholesale ladies leggings supplier da. Quality products good prices.
+shop_info_casual,bro tell about your shop,Bro we are MS Garments. We sell ladies leggings in bulk wholesale da.
+shop_info_casual,da company pathi sollu,Da MS Garments wholesale leggings supplier machan. All India delivery panrom.
+shop_info_casual,machan enna business,Machan we do B2B wholesale ladies leggings business da. Bulk orders dhan.
+shop_info_casual,bro minimum order evlo,Bro minimum order depends on product machan. Bulk order na better rates kidaikum da.
+shop_info_casual,da bulk discount iruka,Da yeah bulk orders na good discount kedaikum machan.
+shop_info_casual,machan sample kedaikuma,Machan yeah samples available da. First small order panni paakalam.
+shop_info_casual,bro enga deliver panringa,Bro all India delivery panrom da. 3 to 5 days la kedaikum.
+shop_info_casual,da contact eppadi,Da contact section la details iruku machan. Or direct ah portal la order panlaam.
+shop_info_casual,machan yen neenga dhan best,Machan quality products best wholesale prices fast delivery ellam iruku da!
+shop_location,shop location,MS Garments is based in Erode Tamil Nadu serving wholesale buyers across India through our online portal.
+shop_location,where is your shop,We are located in Erode Tamil Nadu and deliver products across India through our B2B platform.
+shop_location,your location,MS Garments operates from Erode Tamil Nadu with nationwide delivery service.
+shop_location,where are you located,We are based in Erode Tamil Nadu and serve wholesale buyers throughout India.
+shop_location,shop address,We are an online B2B wholesale platform based in Erode Tamil Nadu delivering across India.
+shop_location,physical store,We operate primarily through our online buyer portal in Erode Tamil Nadu with delivery across India.
+shop_location,visit your shop,We are in Erode Tamil Nadu. We focus on B2B online orders but you can contact us for bulk purchase arrangements.
+shop_location,office address,Our operations are based in Erode Tamil Nadu. Order through our online portal for convenience.
+shop_location_casual,machan shop enga iruku,Machan Erode Tamil Nadu la iruku da. But online portal through ellame panalam.
+shop_location_casual,bro where is shop,Bro Erode Tamil Nadu based da. All India delivery panrom through online.
+shop_location_casual,da shop address enna,Da Erode Tamil Nadu la irukrom machan. Online portal la order panni delivery vaangalam.
+shop_location_casual,machan location sollu,Machan Erode Tamil Nadu dhan da. Online B2B platform so India full ah deliver panrom.
+shop_location_casual,bro shop paka vara mudiyuma,Bro Erode Tamil Nadu la irukom machan. Online platform dhan but bulk orders na arrange panlaam da.
+shop_location_casual,da enga office,Da Erode Tamil Nadu la operations machan. Portal la order podu easy ah irukum.

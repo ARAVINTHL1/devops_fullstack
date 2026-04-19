@@ -1,0 +1,227 @@
+[
+  {
+    "intent": "greeting",
+    "question": "hello",
+    "response": "Welcome to MS Garments. How can I help you today?"
+  },
+  {
+    "intent": "greeting",
+    "question": "hi",
+    "response": "Hello! Welcome to MS Garments buyer portal."
+  },
+  {
+    "intent": "greeting",
+    "question": "hey",
+    "response": "Hi there! How can I assist you?"
+  },
+  {
+    "intent": "greeting",
+    "question": "good morning",
+    "response": "Good morning! Welcome to MS Garments."
+  },
+  {
+    "intent": "greeting",
+    "question": "good evening",
+    "response": "Good evening! How can I help you today?"
+  },
+  {
+    "intent": "product_inquiry",
+    "question": "what products do you sell",
+    "response": "We sell wholesale ladies leggings in various colors and sizes."
+  },
+  {
+    "intent": "product_inquiry",
+    "question": "do you have leggings available",
+    "response": "Yes we have multiple leggings available in stock."
+  },
+  {
+    "intent": "product_inquiry",
+    "question": "show me available products",
+    "response": "You can view all leggings in the products section."
+  },
+  {
+    "intent": "product_inquiry",
+    "question": "what types of leggings are available",
+    "response": "We offer cotton leggings ankle leggings and churidar leggings."
+  },
+  {
+    "intent": "product_inquiry",
+    "question": "available leggings",
+    "response": "Please check the products page to see available leggings."
+  },
+  {
+    "intent": "product_price",
+    "question": "what is the price of leggings",
+    "response": "Prices vary depending on quantity and type of leggings."
+  },
+  {
+    "intent": "product_price",
+    "question": "price of cotton leggings",
+    "response": "Cotton leggings price starts from ₹120 per piece."
+  },
+  {
+    "intent": "product_price",
+    "question": "how much do leggings cost",
+    "response": "Leggings prices start from ₹120 depending on quantity."
+  },
+  {
+    "intent": "product_price",
+    "question": "wholesale leggings price",
+    "response": "Wholesale price depends on bulk order quantity."
+  },
+  {
+    "intent": "product_price",
+    "question": "price list",
+    "response": "You can view the price list in the products section."
+  },
+  {
+    "intent": "order_status",
+    "question": "show my orders",
+    "response": "You can see your orders in the orders section."
+  },
+  {
+    "intent": "order_status",
+    "question": "my latest order",
+    "response": "Checking your latest order details."
+  },
+  {
+    "intent": "order_status",
+    "question": "track my order",
+    "response": "Please check the order tracking section."
+  },
+  {
+    "intent": "order_status",
+    "question": "order history",
+    "response": "You can view your order history in the orders page."
+  },
+  {
+    "intent": "order_status",
+    "question": "recent order",
+    "response": "Fetching your recent order details."
+  },
+  {
+    "intent": "place_order",
+    "question": "how to place order",
+    "response": "Select products add them to cart and place the order."
+  },
+  {
+    "intent": "place_order",
+    "question": "how can i order leggings",
+    "response": "Go to products select items and click place order."
+  },
+  {
+    "intent": "place_order",
+    "question": "steps to place order",
+    "response": "Choose product add to cart confirm order and proceed to payment."
+  },
+  {
+    "intent": "place_order",
+    "question": "order process",
+    "response": "Add products to cart then confirm your order."
+  },
+  {
+    "intent": "place_order",
+    "question": "how do i buy products",
+    "response": "You can buy products directly from the products page."
+  },
+  {
+    "intent": "payment_methods",
+    "question": "what payment methods are available",
+    "response": "We support UPI bank transfer and cash on delivery."
+  },
+  {
+    "intent": "payment_methods",
+    "question": "how can i pay",
+    "response": "You can pay via UPI or bank transfer."
+  },
+  {
+    "intent": "payment_methods",
+    "question": "is cod available",
+    "response": "Yes cash on delivery is available for selected orders."
+  },
+  {
+    "intent": "payment_methods",
+    "question": "do you accept upi",
+    "response": "Yes we accept UPI payments."
+  },
+  {
+    "intent": "payment_methods",
+    "question": "payment options",
+    "response": "UPI bank transfer and COD are available."
+  },
+  {
+    "intent": "delivery",
+    "question": "delivery time",
+    "response": "Delivery usually takes 3 to 5 business days."
+  },
+  {
+    "intent": "delivery",
+    "question": "shipping time",
+    "response": "Shipping will take around 3 to 5 days."
+  },
+  {
+    "intent": "delivery",
+    "question": "when will my order arrive",
+    "response": "Your order will arrive within 5 days."
+  },
+  {
+    "intent": "delivery",
+    "question": "delivery details",
+    "response": "Delivery details will be shown after placing order."
+  },
+  {
+    "intent": "delivery",
+    "question": "do you deliver across india",
+    "response": "Yes we deliver across India."
+  },
+  {
+    "intent": "reviews",
+    "question": "show product reviews",
+    "response": "You can check reviews in the reviews section."
+  },
+  {
+    "intent": "reviews",
+    "question": "customer feedback",
+    "response": "Customer feedback is available on each product page."
+  },
+  {
+    "intent": "reviews",
+    "question": "ratings for leggings",
+    "response": "You can see ratings on the product page."
+  },
+  {
+    "intent": "reviews",
+    "question": "product rating",
+    "response": "Product ratings are available in the review section."
+  },
+  {
+    "intent": "reviews",
+    "question": "customer reviews",
+    "response": "Please check the reviews page for customer feedback."
+  },
+  {
+    "intent": "goodbye",
+    "question": "bye",
+    "response": "Thank you for visiting MS Garments."
+  },
+  {
+    "intent": "goodbye",
+    "question": "goodbye",
+    "response": "Have a great day."
+  },
+  {
+    "intent": "goodbye",
+    "question": "see you",
+    "response": "See you again soon."
+  },
+  {
+    "intent": "goodbye",
+    "question": "thanks",
+    "response": "You're welcome."
+  },
+  {
+    "intent": "goodbye",
+    "question": "thank you",
+    "response": "Happy to help."
+  }
+]

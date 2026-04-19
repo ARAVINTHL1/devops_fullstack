@@ -1,0 +1,788 @@
+[
+  {
+    "intent": "greeting",
+    "question": "hello",
+    "question_nlp": "hello",
+    "response": "Welcome to MS Garments. How can I help you today?"
+  },
+  {
+    "intent": "greeting",
+    "question": "hi",
+    "question_nlp": "hi",
+    "response": "Hello! Welcome to MS Garments buyer portal."
+  },
+  {
+    "intent": "greeting",
+    "question": "hey",
+    "question_nlp": "hey",
+    "response": "Hi there! How can I assist you?"
+  },
+  {
+    "intent": "greeting",
+    "question": "good morning",
+    "question_nlp": "good morning",
+    "response": "Good morning! Welcome to MS Garments."
+  },
+  {
+    "intent": "greeting",
+    "question": "good evening",
+    "question_nlp": "good evening",
+    "response": "Good evening! How can I help you today?"
+  },
+  {
+    "intent": "greeting",
+    "question": "how are you",
+    "question_nlp": "how are you",
+    "response": "I'm doing great! How can I help you with MS Garments today?"
+  },
+  {
+    "intent": "greeting",
+    "question": "how are u",
+    "question_nlp": "how are u",
+    "response": "I'm here to help! What can I do for you?"
+  },
+  {
+    "intent": "greeting",
+    "question": "whats up",
+    "question_nlp": "whats up",
+    "response": "Hey! Ready to help you with MS Garments."
+  },
+  {
+    "intent": "greeting",
+    "question": "what's going on",
+    "question_nlp": "whats going on",
+    "response": "All good! How can I assist you?"
+  },
+  {
+    "intent": "greeting",
+    "question": "how you doing",
+    "question_nlp": "how you doing",
+    "response": "Doing well! What do you need help with?"
+  },
+  {
+    "intent": "product_inquiry",
+    "question": "what products do you sell",
+    "question_nlp": "what product do you sell",
+    "response": "We sell wholesale ladies leggings in various colors and sizes."
+  },
+  {
+    "intent": "product_inquiry",
+    "question": "do you have leggings available",
+    "question_nlp": "do you have legging avail",
+    "response": "Yes we have multiple leggings available in stock."
+  },
+  {
+    "intent": "product_inquiry",
+    "question": "show me available products",
+    "question_nlp": "show me avail product",
+    "response": "You can view all leggings in the products section."
+  },
+  {
+    "intent": "product_inquiry",
+    "question": "what types of leggings are available",
+    "question_nlp": "what types of legging are avail",
+    "response": "We offer cotton leggings ankle leggings and churidar leggings."
+  },
+  {
+    "intent": "product_inquiry",
+    "question": "available leggings",
+    "question_nlp": "avail legging",
+    "response": "Please check the products page to see available leggings."
+  },
+  {
+    "intent": "product_inquiry",
+    "question": "what can i buy",
+    "question_nlp": "what can i buy",
+    "response": "We have cotton leggings ankle leggings and churidar leggings."
+  },
+  {
+    "intent": "product_inquiry",
+    "question": "what do you have",
+    "question_nlp": "what do you have",
+    "response": "We sell ladies leggings in bulk at wholesale prices."
+  },
+  {
+    "intent": "product_inquiry",
+    "question": "show products",
+    "question_nlp": "show product",
+    "response": "Check the products page to see our leggings collection."
+  },
+  {
+    "intent": "product_price",
+    "question": "what is the price of leggings",
+    "question_nlp": "what is the price of legging",
+    "response": "Prices vary depending on quantity and type of leggings."
+  },
+  {
+    "intent": "product_price",
+    "question": "price of cotton leggings",
+    "question_nlp": "price of cotton legging",
+    "response": "Cotton leggings price starts from ₹120 per piece."
+  },
+  {
+    "intent": "product_price",
+    "question": "how much do leggings cost",
+    "question_nlp": "how much do legging cost",
+    "response": "Leggings prices start from ₹120 depending on quantity."
+  },
+  {
+    "intent": "product_price",
+    "question": "wholesale leggings price",
+    "question_nlp": "wholesale legging price",
+    "response": "Wholesale price depends on bulk order quantity."
+  },
+  {
+    "intent": "product_price",
+    "question": "price list",
+    "question_nlp": "price list",
+    "response": "You can view the price list in the products section."
+  },
+  {
+    "intent": "order_status",
+    "question": "show my orders",
+    "question_nlp": "show my order",
+    "response": "You can see your orders in the orders section."
+  },
+  {
+    "intent": "order_status",
+    "question": "my latest order",
+    "question_nlp": "my latest order",
+    "response": "Checking your latest order details."
+  },
+  {
+    "intent": "order_status",
+    "question": "track my order",
+    "question_nlp": "track my order",
+    "response": "Please check the order tracking section."
+  },
+  {
+    "intent": "order_status",
+    "question": "order history",
+    "question_nlp": "order history",
+    "response": "You can view your order history in the orders page."
+  },
+  {
+    "intent": "order_status",
+    "question": "recent order",
+    "question_nlp": "recent order",
+    "response": "Fetching your recent order details."
+  },
+  {
+    "intent": "order_status",
+    "question": "where is my order",
+    "question_nlp": "where is my order",
+    "response": "Check the orders section to track your order."
+  },
+  {
+    "intent": "order_status",
+    "question": "wheres my order",
+    "question_nlp": "wheres my order",
+    "response": "Your order details are in the orders page."
+  },
+  {
+    "intent": "order_status",
+    "question": "my order",
+    "question_nlp": "my order",
+    "response": "View your orders in the orders section."
+  },
+  {
+    "intent": "place_order",
+    "question": "how to place order",
+    "question_nlp": "how to place order",
+    "response": "Select products add them to cart and place the order."
+  },
+  {
+    "intent": "place_order",
+    "question": "how can i order leggings",
+    "question_nlp": "how can i order legging",
+    "response": "Go to products select items and click place order."
+  },
+  {
+    "intent": "place_order",
+    "question": "steps to place order",
+    "question_nlp": "steps to place order",
+    "response": "Choose product add to cart confirm order and proceed to payment."
+  },
+  {
+    "intent": "place_order",
+    "question": "order process",
+    "question_nlp": "order process",
+    "response": "Add products to cart then confirm your order."
+  },
+  {
+    "intent": "place_order",
+    "question": "how do i buy products",
+    "question_nlp": "how do i buy product",
+    "response": "You can buy products directly from the products page."
+  },
+  {
+    "intent": "place_order",
+    "question": "how to order",
+    "question_nlp": "how to order",
+    "response": "Select products add to cart and checkout."
+  },
+  {
+    "intent": "place_order",
+    "question": "buy leggings",
+    "question_nlp": "buy legging",
+    "response": "Go to products page select items and place order."
+  },
+  {
+    "intent": "place_order",
+    "question": "want to order",
+    "question_nlp": "want to order",
+    "response": "Choose products and click place order button."
+  },
+  {
+    "intent": "payment_methods",
+    "question": "what payment methods are available",
+    "question_nlp": "what payment methods are avail",
+    "response": "We support UPI bank transfer and cash on delivery."
+  },
+  {
+    "intent": "payment_methods",
+    "question": "how can i pay",
+    "question_nlp": "how can i pay",
+    "response": "You can pay via UPI or bank transfer."
+  },
+  {
+    "intent": "payment_methods",
+    "question": "is cod available",
+    "question_nlp": "is cod avail",
+    "response": "Yes cash on delivery is available for selected orders."
+  },
+  {
+    "intent": "payment_methods",
+    "question": "do you accept upi",
+    "question_nlp": "do you accept upi",
+    "response": "Yes we accept UPI payments."
+  },
+  {
+    "intent": "payment_methods",
+    "question": "payment options",
+    "question_nlp": "payment options",
+    "response": "UPI bank transfer and COD are available."
+  },
+  {
+    "intent": "delivery",
+    "question": "delivery time",
+    "question_nlp": "delivery time",
+    "response": "Delivery usually takes 3 to 5 business days."
+  },
+  {
+    "intent": "delivery",
+    "question": "shipping time",
+    "question_nlp": "shipping time",
+    "response": "Shipping will take around 3 to 5 days."
+  },
+  {
+    "intent": "delivery",
+    "question": "when will my order arrive",
+    "question_nlp": "when will my order arrive",
+    "response": "Your order will arrive within 5 days."
+  },
+  {
+    "intent": "delivery",
+    "question": "delivery details",
+    "question_nlp": "delivery details",
+    "response": "Delivery details will be shown after placing order."
+  },
+  {
+    "intent": "delivery",
+    "question": "do you deliver across india",
+    "question_nlp": "do you deliver across india",
+    "response": "Yes we deliver across India."
+  },
+  {
+    "intent": "reviews",
+    "question": "show product reviews",
+    "question_nlp": "show product review",
+    "response": "You can check reviews in the reviews section."
+  },
+  {
+    "intent": "reviews",
+    "question": "customer feedback",
+    "question_nlp": "customer feedback",
+    "response": "Customer feedback is available on each product page."
+  },
+  {
+    "intent": "reviews",
+    "question": "ratings for leggings",
+    "question_nlp": "ratings for legging",
+    "response": "You can see ratings on the product page."
+  },
+  {
+    "intent": "reviews",
+    "question": "product rating",
+    "question_nlp": "product rating",
+    "response": "Product ratings are available in the review section."
+  },
+  {
+    "intent": "reviews",
+    "question": "customer reviews",
+    "question_nlp": "customer review",
+    "response": "Please check the reviews page for customer feedback."
+  },
+  {
+    "intent": "goodbye",
+    "question": "bye",
+    "question_nlp": "bye",
+    "response": "Thank you for visiting MS Garments."
+  },
+  {
+    "intent": "goodbye",
+    "question": "goodbye",
+    "question_nlp": "goodbye",
+    "response": "Have a great day."
+  },
+  {
+    "intent": "goodbye",
+    "question": "see you",
+    "question_nlp": "see you",
+    "response": "See you again soon."
+  },
+  {
+    "intent": "goodbye",
+    "question": "thanks",
+    "question_nlp": "thanks",
+    "response": "You're welcome."
+  },
+  {
+    "intent": "goodbye",
+    "question": "thank you",
+    "question_nlp": "thank you",
+    "response": "Happy to help."
+  },
+  {
+    "intent": "goodbye",
+    "question": "ok bye",
+    "question_nlp": "ok bye",
+    "response": "Thanks for visiting! Have a great day."
+  },
+  {
+    "intent": "goodbye",
+    "question": "cya",
+    "question_nlp": "cya",
+    "response": "See you later!"
+  },
+  {
+    "intent": "goodbye",
+    "question": "later",
+    "question_nlp": "later",
+    "response": "See you soon!"
+  },
+  {
+    "intent": "greeting_casual",
+    "question": "hey machan",
+    "question_nlp": "hey machan",
+    "response": "Hey machan! How can I help you da?"
+  },
+  {
+    "intent": "greeting_casual",
+    "question": "yo bro",
+    "question_nlp": "yo bro",
+    "response": "Yo bro! What do you need?"
+  },
+  {
+    "intent": "greeting_casual",
+    "question": "sup da",
+    "question_nlp": "sup da",
+    "response": "Sup da! Ready to help you machan."
+  },
+  {
+    "intent": "greeting_casual",
+    "question": "enna machan",
+    "question_nlp": "enna machan",
+    "response": "Enna da! What can I do for you?"
+  },
+  {
+    "intent": "greeting_casual",
+    "question": "da enna panra",
+    "question_nlp": "da enna panra",
+    "response": "Da I'm here to help you! What do you want?"
+  },
+  {
+    "intent": "greeting_casual",
+    "question": "machan how are you",
+    "question_nlp": "machan how are you",
+    "response": "I'm good machan! What about you da?"
+  },
+  {
+    "intent": "greeting_casual",
+    "question": "bro whats up",
+    "question_nlp": "bro whats up",
+    "response": "All good bro! What can I help you with?"
+  },
+  {
+    "intent": "product_inquiry_casual",
+    "question": "machan enna products iruku",
+    "question_nlp": "machan enna product iruku",
+    "response": "Machan we have cotton leggings ankle leggings and churidar leggings da."
+  },
+  {
+    "intent": "product_inquiry_casual",
+    "question": "bro what stuff you got",
+    "question_nlp": "bro what stuff you got",
+    "response": "Bro we got ladies leggings in bulk wholesale da."
+  },
+  {
+    "intent": "product_inquiry_casual",
+    "question": "da enna sell panringa",
+    "question_nlp": "da enna sell panringa",
+    "response": "Da we sell wholesale ladies leggings machan."
+  },
+  {
+    "intent": "product_inquiry_casual",
+    "question": "machan show me products",
+    "question_nlp": "machan show me product",
+    "response": "Sure machan! Check the products page da."
+  },
+  {
+    "intent": "product_inquiry_casual",
+    "question": "enna items iruku bro",
+    "question_nlp": "enna items iruku bro",
+    "response": "Bro we have multiple leggings available in stock da."
+  },
+  {
+    "intent": "product_price_casual",
+    "question": "machan price enna",
+    "question_nlp": "machan price enna",
+    "response": "Machan prices start from ₹120 depending on quantity da."
+  },
+  {
+    "intent": "product_price_casual",
+    "question": "bro how much",
+    "question_nlp": "bro how much",
+    "response": "Bro leggings start from ₹120 per piece."
+  },
+  {
+    "intent": "product_price_casual",
+    "question": "da cotton leggings rate enna",
+    "question_nlp": "da cotton legging rate enna",
+    "response": "Da cotton leggings start from ₹120 machan."
+  },
+  {
+    "intent": "product_price_casual",
+    "question": "machan wholesale price sollu",
+    "question_nlp": "machan wholesale price sollu",
+    "response": "Machan wholesale price depends on bulk order quantity da."
+  },
+  {
+    "intent": "order_status_casual",
+    "question": "machan my order enga",
+    "question_nlp": "machan my order enga",
+    "response": "Machan check the orders section to see your order da."
+  },
+  {
+    "intent": "order_status_casual",
+    "question": "bro wheres my order",
+    "question_nlp": "bro wheres my order",
+    "response": "Bro your order details are in the orders page."
+  },
+  {
+    "intent": "order_status_casual",
+    "question": "da order status enna",
+    "question_nlp": "da order status enna",
+    "response": "Da check the orders page machan."
+  },
+  {
+    "intent": "order_status_casual",
+    "question": "machan order track panna",
+    "question_nlp": "machan order track panna",
+    "response": "Track your order in the orders section machan."
+  },
+  {
+    "intent": "place_order_casual",
+    "question": "machan how to order",
+    "question_nlp": "machan how to order",
+    "response": "Machan select products add to cart and checkout da."
+  },
+  {
+    "intent": "place_order_casual",
+    "question": "bro order panna",
+    "question_nlp": "bro order panna",
+    "response": "Bro go to products page and place order."
+  },
+  {
+    "intent": "place_order_casual",
+    "question": "da eppadi order panradhu",
+    "question_nlp": "da eppadi order panradhu",
+    "response": "Da choose products and click place order button machan."
+  },
+  {
+    "intent": "payment_methods_casual",
+    "question": "machan payment eppadi",
+    "question_nlp": "machan payment eppadi",
+    "response": "Machan you can pay via UPI or bank transfer da."
+  },
+  {
+    "intent": "payment_methods_casual",
+    "question": "bro how do i pay",
+    "question_nlp": "bro how do i pay",
+    "response": "Bro we accept UPI bank transfer and COD."
+  },
+  {
+    "intent": "payment_methods_casual",
+    "question": "da cod iruka",
+    "question_nlp": "da cod iruka",
+    "response": "Da yeah COD is available machan."
+  },
+  {
+    "intent": "goodbye_casual",
+    "question": "ok machan bye",
+    "question_nlp": "ok machan bye",
+    "response": "Bye machan! See you soon da."
+  },
+  {
+    "intent": "goodbye_casual",
+    "question": "later bro",
+    "question_nlp": "later bro",
+    "response": "Later bro! Have a good one."
+  },
+  {
+    "intent": "goodbye_casual",
+    "question": "thanks da",
+    "question_nlp": "thanks da",
+    "response": "Welcome da! Anytime machan."
+  },
+  {
+    "intent": "goodbye_casual",
+    "question": "seri machan",
+    "question_nlp": "seri machan",
+    "response": "Seri machan! Come back anytime da."
+  },
+  {
+    "intent": "shop_info",
+    "question": "what is ms garments",
+    "question_nlp": "what is ms garments",
+    "response": "MS Garments is a leading wholesale supplier of ladies leggings with quality products at competitive prices."
+  },
+  {
+    "intent": "shop_info",
+    "question": "tell me about your company",
+    "question_nlp": "tell me about your company",
+    "response": "We are MS Garments specializing in wholesale ladies leggings. We offer bulk quantities with fast delivery across India."
+  },
+  {
+    "intent": "shop_info",
+    "question": "who are you",
+    "question_nlp": "who are you",
+    "response": "I represent MS Garments a trusted wholesale leggings supplier serving buyers across India."
+  },
+  {
+    "intent": "shop_info",
+    "question": "about ms garments",
+    "question_nlp": "about ms garments",
+    "response": "MS Garments provides high-quality wholesale ladies leggings in various styles including cotton ankle and churidar leggings."
+  },
+  {
+    "intent": "shop_info",
+    "question": "company details",
+    "question_nlp": "company details",
+    "response": "MS Garments is your one-stop destination for bulk wholesale ladies leggings with reliable service and quality products."
+  },
+  {
+    "intent": "shop_info",
+    "question": "what do you specialize in",
+    "question_nlp": "what do you specialize in",
+    "response": "We specialize in wholesale ladies leggings offering cotton leggings ankle leggings and churidar leggings in bulk quantities."
+  },
+  {
+    "intent": "shop_info",
+    "question": "your business type",
+    "question_nlp": "your business type",
+    "response": "We are a B2B wholesale supplier focusing on ladies leggings for retailers and bulk buyers."
+  },
+  {
+    "intent": "shop_info",
+    "question": "minimum order quantity",
+    "question_nlp": "minimum order quantity",
+    "response": "Minimum order quantity varies by product. Contact us for bulk order details and special wholesale rates."
+  },
+  {
+    "intent": "shop_info",
+    "question": "bulk discount available",
+    "question_nlp": "bulk discount avail",
+    "response": "Yes we offer attractive discounts on bulk orders. Larger quantities get better wholesale rates."
+  },
+  {
+    "intent": "shop_info",
+    "question": "do you have samples",
+    "question_nlp": "do you have samples",
+    "response": "Yes samples are available. You can order small quantities first to check quality before bulk orders."
+  },
+  {
+    "intent": "shop_info",
+    "question": "custom orders",
+    "question_nlp": "custom order",
+    "response": "We can discuss custom requirements for bulk orders. Contact us with your specifications."
+  },
+  {
+    "intent": "shop_info",
+    "question": "delivery areas",
+    "question_nlp": "delivery areas",
+    "response": "We deliver across India. Delivery usually takes 3 to 5 business days depending on your location."
+  },
+  {
+    "intent": "shop_info",
+    "question": "contact details",
+    "question_nlp": "contact details",
+    "response": "You can reach us through the contact section or place orders directly through our buyer portal."
+  },
+  {
+    "intent": "shop_info",
+    "question": "working hours",
+    "question_nlp": "working hours",
+    "response": "Our buyer portal is available 24/7. You can browse products and place orders anytime."
+  },
+  {
+    "intent": "shop_info",
+    "question": "why choose ms garments",
+    "question_nlp": "why choose ms garments",
+    "response": "We offer quality products competitive wholesale prices reliable delivery and excellent customer service."
+  },
+  {
+    "intent": "shop_info_casual",
+    "question": "machan ms garments enna company",
+    "question_nlp": "machan ms garments enna company",
+    "response": "Machan MS Garments is a wholesale ladies leggings supplier da. Quality products good prices."
+  },
+  {
+    "intent": "shop_info_casual",
+    "question": "bro tell about your shop",
+    "question_nlp": "bro tell about your shop",
+    "response": "Bro we are MS Garments. We sell ladies leggings in bulk wholesale da."
+  },
+  {
+    "intent": "shop_info_casual",
+    "question": "da company pathi sollu",
+    "question_nlp": "da company pathi sollu",
+    "response": "Da MS Garments wholesale leggings supplier machan. All India delivery panrom."
+  },
+  {
+    "intent": "shop_info_casual",
+    "question": "machan enna business",
+    "question_nlp": "machan enna business",
+    "response": "Machan we do B2B wholesale ladies leggings business da. Bulk orders dhan."
+  },
+  {
+    "intent": "shop_info_casual",
+    "question": "bro minimum order evlo",
+    "question_nlp": "bro minimum order evlo",
+    "response": "Bro minimum order depends on product machan. Bulk order na better rates kidaikum da."
+  },
+  {
+    "intent": "shop_info_casual",
+    "question": "da bulk discount iruka",
+    "question_nlp": "da bulk discount iruka",
+    "response": "Da yeah bulk orders na good discount kedaikum machan."
+  },
+  {
+    "intent": "shop_info_casual",
+    "question": "machan sample kedaikuma",
+    "question_nlp": "machan sample kedaikuma",
+    "response": "Machan yeah samples available da. First small order panni paakalam."
+  },
+  {
+    "intent": "shop_info_casual",
+    "question": "bro enga deliver panringa",
+    "question_nlp": "bro enga deliver panringa",
+    "response": "Bro all India delivery panrom da. 3 to 5 days la kedaikum."
+  },
+  {
+    "intent": "shop_info_casual",
+    "question": "da contact eppadi",
+    "question_nlp": "da contact eppadi",
+    "response": "Da contact section la details iruku machan. Or direct ah portal la order panlaam."
+  },
+  {
+    "intent": "shop_info_casual",
+    "question": "machan yen neenga dhan best",
+    "question_nlp": "machan yen neenga dhan best",
+    "response": "Machan quality products best wholesale prices fast delivery ellam iruku da!"
+  },
+  {
+    "intent": "shop_location",
+    "question": "shop location",
+    "question_nlp": "shop location",
+    "response": "MS Garments is based in Erode Tamil Nadu serving wholesale buyers across India through our online portal."
+  },
+  {
+    "intent": "shop_location",
+    "question": "where is your shop",
+    "question_nlp": "where is your shop",
+    "response": "We are located in Erode Tamil Nadu and deliver products across India through our B2B platform."
+  },
+  {
+    "intent": "shop_location",
+    "question": "your location",
+    "question_nlp": "your location",
+    "response": "MS Garments operates from Erode Tamil Nadu with nationwide delivery service."
+  },
+  {
+    "intent": "shop_location",
+    "question": "where are you located",
+    "question_nlp": "where are you located",
+    "response": "We are based in Erode Tamil Nadu and serve wholesale buyers throughout India."
+  },
+  {
+    "intent": "shop_location",
+    "question": "shop address",
+    "question_nlp": "shop address",
+    "response": "We are an online B2B wholesale platform based in Erode Tamil Nadu delivering across India."
+  },
+  {
+    "intent": "shop_location",
+    "question": "physical store",
+    "question_nlp": "physical store",
+    "response": "We operate primarily through our online buyer portal in Erode Tamil Nadu with delivery across India."
+  },
+  {
+    "intent": "shop_location",
+    "question": "visit your shop",
+    "question_nlp": "visit your shop",
+    "response": "We are in Erode Tamil Nadu. We focus on B2B online orders but you can contact us for bulk purchase arrangements."
+  },
+  {
+    "intent": "shop_location",
+    "question": "office address",
+    "question_nlp": "office address",
+    "response": "Our operations are based in Erode Tamil Nadu. Order through our online portal for convenience."
+  },
+  {
+    "intent": "shop_location_casual",
+    "question": "machan shop enga iruku",
+    "question_nlp": "machan shop enga iruku",
+    "response": "Machan Erode Tamil Nadu la iruku da. But online portal through ellame panalam."
+  },
+  {
+    "intent": "shop_location_casual",
+    "question": "bro where is shop",
+    "question_nlp": "bro where is shop",
+    "response": "Bro Erode Tamil Nadu based da. All India delivery panrom through online."
+  },
+  {
+    "intent": "shop_location_casual",
+    "question": "da shop address enna",
+    "question_nlp": "da shop address enna",
+    "response": "Da Erode Tamil Nadu la irukrom machan. Online portal la order panni delivery vaangalam."
+  },
+  {
+    "intent": "shop_location_casual",
+    "question": "machan location sollu",
+    "question_nlp": "machan location sollu",
+    "response": "Machan Erode Tamil Nadu dhan da. Online B2B platform so India full ah deliver panrom."
+  },
+  {
+    "intent": "shop_location_casual",
+    "question": "bro shop paka vara mudiyuma",
+    "question_nlp": "bro shop paka vara mudiyuma",
+    "response": "Bro Erode Tamil Nadu la irukom machan. Online platform dhan but bulk orders na arrange panlaam da."
+  },
+  {
+    "intent": "shop_location_casual",
+    "question": "da enga office",
+    "question_nlp": "da enga office",
+    "response": "Da Erode Tamil Nadu la operations machan. Portal la order podu easy ah irukum."
+  }
+]

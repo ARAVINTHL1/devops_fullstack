@@ -1,0 +1,67 @@
+{
+  "model_info": {
+    "model_type": "Isolation Forest",
+    "contamination": 0.05,
+    "n_estimators": 150,
+    "total_anomalies": 54,
+    "trained_on": "2026-03-17 22:14:29"
+  },
+  "alerts": [
+    {
+      "date": "2024-10-27",
+      "type": "sales_drop",
+      "severity": "warning",
+      "fabric": "Wool",
+      "quantity_sold": 43,
+      "expected_range": "84-180",
+      "deviation": -1.85,
+      "message": "Significant drop in Wool sales: 43 units (expected: 132)"
+    },
+    {
+      "date": "2024-08-03",
+      "type": "sales_drop",
+      "severity": "warning",
+      "fabric": "Wool",
+      "quantity_sold": 53,
+      "expected_range": "95-180",
+      "deviation": -2.01,
+      "message": "Significant drop in Wool sales: 53 units (expected: 137)"
+    },
+    {
+      "date": "2024-05-18",
+      "type": "sales_drop",
+      "severity": "warning",
+      "fabric": "Wool",
+      "quantity_sold": 82,
+      "expected_range": "63-175",
+      "deviation": -0.67,
+      "message": "Significant drop in Wool sales: 82 units (expected: 119)"
+    },
+    {
+      "date": "2024-06-22",
+      "type": "sales_drop",
+      "severity": "warning",
+      "fabric": "Wool",
+      "quantity_sold": 68,
+      "expected_range": "72-163",
+      "deviation": -1.09,
+      "message": "Significant drop in Wool sales: 68 units (expected: 118)"
+    },
+    {
+      "date": "2024-06-30",
+      "type": "sales_drop",
+      "severity": "warning",
+      "fabric": "Wool",
+      "quantity_sold": 71,
+      "expected_range": "78-172",
+      "deviation": -1.17,
+      "message": "Significant drop in Wool sales: 71 units (expected: 125)"
+    }
+  ],
+  "statistics": {
+    "total_days_analyzed": 1067,
+    "anomaly_rate": 5.06,
+    "avg_daily_sales": 144.05,
+    "sales_std": 36.5
+  }
+}
