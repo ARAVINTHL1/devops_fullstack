@@ -100,7 +100,7 @@ const Login = () => {
           </Card>
 
           <p className="text-xs text-slate-200 font-medium text-center mt-8">
-            📍 Erodeee, Tamil Nadu • MS Garments Hub © 2026
+            📍 Erodeee, Tamil Nadu • MS Garments Hub 2026
           </p>
         </div>
     </div>
