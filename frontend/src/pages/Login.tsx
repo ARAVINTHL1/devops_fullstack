@@ -94,7 +94,7 @@ const Login = () => {
               </form>
 
               <p className="text-sm text-slate-600 font-medium text-center mt-6">
-                Buyer account not created yet? <Link to="/signup" className="text-slate-900 font-semibold underline hover:text-slate-700">Sign up</Link>
+                Buyer's account not created yet? <Link to="/signup" className="text-slate-900 font-semibold underline hover:text-slate-700">Sign up</Link>
               </p>
             </CardContent>
           </Card>
