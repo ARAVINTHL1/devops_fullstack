@@ -46,7 +46,7 @@ const Login = () => {
             <CardHeader className="space-y-4 pb-6">
               <div className="text-center">
                 <h1 className="text-xl font-extrabold font-display text-slate-900">MS Garments Hub</h1>
-                <p className="text-xs text-slate-600 font-semibold">B2B Textile Wholesale</p>
+                <p className="text-xs text-slate-600 font-semibold">B</p>
               </div>
               <div className="space-y-1">
                 <CardTitle className="text-3xl font-extrabold font-display text-slate-900">Welcome back</CardTitle>
