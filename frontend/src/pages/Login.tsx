@@ -50,7 +50,7 @@ const Login = () => {
               </div>
               <div className="space-y-1">
                 <CardTitle className="text-3xl font-extrabold font-display text-slate-900">Welcome back</CardTitle>
-                <CardDescription className="text-slate-600 font-medium">Sign in to your wholesale account</CardDescription>
+                <CardDescription className="text-slate-600 font-medium">Sign in  your wholesale account</CardDescription>
               </div>
             </CardHeader>
             <CardContent>
